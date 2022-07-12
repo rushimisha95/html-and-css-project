@@ -1,0 +1,18 @@
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    background-color:brown;
+    font-variant-caps: all-petite-caps;
+    
+}
+a{
+    text-decoration: dotted;
+}
+h2{
+    font-weight: bolder;
+    text-align: center;
+
+}
+body{
+    background:burlywood;
+}
